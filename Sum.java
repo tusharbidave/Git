@@ -10,11 +10,8 @@ class Sum {
         a = sc.nextInt();
         b = sc.nextInt();
         data = sc.next();
-
         System.out.println(a + b);
         System.out.println(a * b);
-
-        System.out.println(data);
 
     }
 }
