@@ -12,6 +12,7 @@ class Sum {
         data = sc.next();
         System.out.println(a + b);
         System.out.println(a * b);
+        System.System.out.println("hi");
 
     }
 }
